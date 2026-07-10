@@ -60,6 +60,6 @@ The system evolved through three major phases of development:
 
 ## Connect With Me
 
-- **LinkedIn**: [LinkedIn Placeholder](https://www.linkedin.com/in/placeholder)
-- **GitHub**: [GitHub Placeholder](https://github.com/placeholder)
-- **Email**: [Email Placeholder](mailto:placeholder@example.com)
+- **LinkedIn**: [LinkedIn Placeholder](www.linkedin.com/in/mithun-venkatesan-78346528b)
+- **GitHub**: [GitHub Placeholder](https://github.com/Mithun-Newt)
+- **Email**: [Email Placeholder](smilemit5353@gmail.com)
