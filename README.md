@@ -2,11 +2,13 @@
 
 A showcase of production-grade AI systems, intelligent agents, and engineering-focused software solutions.
 
+![AI Engineering Portfolio Banner](assests/banner.png)
+
 ---
 
 ## Flagship Project: Multi-Agent School AI Coworker
 
-A production-grade, multi-agent AI coworker designed to assist school administrators with registration, admissions, document verification, transport, and finance workflows. 
+A production-grade, multi-agent AI coworker designed to assist school administrators with registration, admissions, document verification, transport, and finance workflows.
 
 ### AI Evolution
 
@@ -23,19 +25,34 @@ The system evolved through three major phases of development:
 
 ## Architecture
 
-"A detailed architecture diagram will be added here illustrating the complete request flow, coordinator agent, planner, specialist agents, shared memory, and database interactions."
+A detailed architecture diagram illustrating the complete request flow, coordinator agent, planner, specialist agents, shared memory, and database interactions:
+
+### Overall System Flow
+![Overall System Flow](assests/architecture/overall-system.png)
+
+### Multi-Agent Flow
+![Multi-Agent Flow](assests/architecture/multi-agent.png)
 
 ---
 
 ## Project Gallery
 
-- [ ] Dashboard
-- [ ] AI Chat
-- [ ] Daily AI Briefing
-- [ ] Multi-Agent Workflow
-- [ ] System Architecture
+Here is a visual walk-through of the interface and workflows of the School AI Coworker:
 
-*These screenshots will be added later.*
+### Login
+![Login Screen](assests/screenshots/login.png)
+
+### Dashboard
+![Dashboard Overview](assests/screenshots/dashboard.png)
+
+### AI Chat
+![AI Chat Interface](assests/screenshots/ai-chat.png)
+
+### Analytics
+![Analytics & Reports](assests/screenshots/analytics.png)
+
+### Multi-Agent Workflow
+![Multi-Agent Workspace](assests/screenshots/multi-agent.png)
 
 ---
 
@@ -60,6 +77,6 @@ The system evolved through three major phases of development:
 
 ## Connect With Me
 
-- **LinkedIn**: [LinkedIn Placeholder](www.linkedin.com/in/mithun-venkatesan-78346528b)
-- **GitHub**: [GitHub Placeholder](https://github.com/Mithun-Newt)
-- **Email**: [Email Placeholder](smilemit5353@gmail.com)
+- **LinkedIn**: [Mithun Venkatesan](www.linkedin.com/in/mithun-venkatesan-78346528b)
+- **GitHub**: [Mithun-Newt](https://github.com/Mithun-Newt)
+- **Email**: [smilemit5353@gmail.com](mailto:smilemit5353@gmail.com)
